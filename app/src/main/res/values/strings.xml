@@ -2,5 +2,9 @@
     <string name="app_name">ExoAndroid</string>
     <string name="main_message">J\'ai compris le système de ressource !</string>
     <string name="second_message">J\'ai vaiment compris le système des ressources encore mieux qu\'avant !</string>
+    <string name="hint_username_login">Username</string>
+    <string name="hint_password_login">Password</string>
+    <string name="btn_login_login">Log in</string>
+    <string name="btn_reset_login">Reset</string>
 
 </resources>
